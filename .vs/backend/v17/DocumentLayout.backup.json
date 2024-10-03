@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|c:\\users\\administrator\\desktop\\new folder\\backend-webtintuc\\backend\\backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|c:\\users\\administrator\\desktop\\new folder\\backend-webtintuc\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|c:\\users\\administrator\\desktop\\new folder\\backend-webtintuc\\backend\\backend\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|c:\\users\\administrator\\desktop\\new folder\\backend-webtintuc\\backend\\backend\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|solutionrelative:backend\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|c:\\users\\administrator\\desktop\\new folder\\backend-webtintuc\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|c:\\users\\administrator\\desktop\\new folder\\backend-webtintuc\\backend\\backend\\models\\servercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|solutionrelative:backend\\models\\servercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|c:\\users\\administrator\\desktop\\new folder\\backend-webtintuc\\backend\\backend\\models\\likes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|solutionrelative:backend\\models\\likes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|c:\\users\\administrator\\desktop\\new folder\\backend-webtintuc\\backend\\backend\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|solutionrelative:backend\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|c:\\users\\administrator\\desktop\\new folder\\backend-webtintuc\\backend\\backend\\models\\articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|solutionrelative:backend\\models\\articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|c:\\users\\administrator\\desktop\\new folder\\backend-webtintuc\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|c:\\users\\administrator\\desktop\\new folder\\backend-webtintuc\\backend\\backend\\controllers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|c:\\users\\administrator\\desktop\\new folder\\backend-webtintuc\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|c:\\users\\administrator\\desktop\\new folder\\backend-webtintuc\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39E12F8-0F54-4438-8198-5AA1031910F8}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Controllers\\CategoryController.cs*",
+              "RelativeToolTip": "backend\\Controllers\\CategoryController.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:31:28.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Likes.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Models\\Likes.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Likes.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Models\\Likes.cs",
+              "RelativeToolTip": "backend\\Models\\Likes.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:16:13.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:18:06.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ArticlesController.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAADwvzQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:20:04.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T06:51:02.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Controllers\\Helper.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\Helper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Controllers\\Helper.cs",
+              "RelativeToolTip": "backend\\Controllers\\Helper.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:08:07.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServerContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Models\\ServerContext.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\ServerContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Models\\ServerContext.cs",
+              "RelativeToolTip": "backend\\Models\\ServerContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:55:39.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "backend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:03:07.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Models\\Comments.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Comments.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Models\\Comments.cs",
+              "RelativeToolTip": "backend\\Models\\Comments.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:51:32.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Categories.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Models\\Categories.cs",
+              "RelativeToolTip": "backend\\Models\\Categories.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:50:24.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:49:01.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Articles.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Models\\Articles.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Articles.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Models\\Articles.cs",
+              "RelativeToolTip": "backend\\Models\\Articles.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:47:07.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\backend-webtintuc\\backend\\backend\\Models\\User.cs",
+              "RelativeToolTip": "backend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:46:49.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
